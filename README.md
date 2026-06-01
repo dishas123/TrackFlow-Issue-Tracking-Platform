@@ -1,6 +1,6 @@
 # TrackFlow
 
-A full-stack issue tracking and project management platform. TrackFlow helps teams manage projects, organize tasks, track bugs, collaborate through comments, and monitor project progress using interactive dashboards.
+A full-stack issue tracking and project management platform. TrackFlow helps teams manage projects, organize tasks, track bugs and monitor project progress using interactive dashboards.
 
 ---
 
@@ -27,10 +27,9 @@ A full-stack issue tracking and project management platform. TrackFlow helps tea
 - Search, filtering, and pagination
 
 ### Features
-- Issue comments
 - Activity timeline
 - User avatars
-- Audit logging for issue updates
+- Dark and light mode
 
 ### Dashboard & Analytics
 - Total projects and issues overview
