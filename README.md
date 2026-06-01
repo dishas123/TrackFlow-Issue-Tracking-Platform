@@ -84,37 +84,6 @@ The application follows a **Service Layer Architecture** with clear separation b
 
 ---
 
-## Database Schema
-
-### Core Entities
-
-- Users
-- Projects
-- Issues
-- Comments
-- Activity Logs
-
-### Relationships
-
-```text
-User
- ├── Projects
- ├── Issues (Reporter)
- ├── Issues (Assignee)
- ├── Comments
- └── Activity Logs
-
-Project
- ├── Issues
- └── Activity Logs
-
-Issue
- ├── Comments
- └── Activity Logs
-```
-
----
-
 ## API Modules
 
 ### Authentication
