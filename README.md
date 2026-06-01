@@ -207,8 +207,8 @@ NODE_ENV=development
 
 ## Project Outcomes
 
-- Built a production-style full-stack application using modern web technologies.
-- Implemented secure authentication and role-based authorization.
+- Built a full-stack application using modern web technologies.
+- Implemented secure authentication.
 - Designed scalable REST APIs and relational database models.
 - Applied software engineering best practices including modular architecture, validation, logging, and error handling.
 
