@@ -131,7 +131,7 @@ GET /api/dashboard/charts/*
 - Responsive UI with Dark Mode
 - MySQL Relational Database Design
 - Service Layer Architecture
-- Secure Production-Oriented Backend
+- Secure Backend
 
 ---
 
